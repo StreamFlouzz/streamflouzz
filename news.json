@@ -1,0 +1,32 @@
+{
+  "news": [
+    {
+      "title": "🎉 Nouvelle version 2.8.0 disponible !",
+      "content": "Boss Infernal ajouté, amélioration de la connexion TikTok et correction de bugs.",
+      "date": "29/10/2024",
+      "type": "update",
+      "icon": "🆕"
+    },
+    {
+      "title": "🛡️ Nouveau jeu : Defend the Village",
+      "content": "Protégez votre village contre les vagues d'ennemis ! Utilisez les likes et cadeaux TikTok pour débloquer des défenses.",
+      "date": "25/10/2024",
+      "type": "success",
+      "icon": "🎮"
+    },
+    {
+      "title": "⚠️ Maintenance serveur programmée",
+      "content": "Une maintenance aura lieu le 01/11/2024 de 2h à 4h. Connexion TikTok temporairement indisponible.",
+      "date": "28/10/2024",
+      "type": "warning",
+      "icon": "🔧"
+    },
+    {
+      "title": "💡 Astuce : Testez vos commandes hors live",
+      "content": "Utilisez la zone 'Test des commandes hors ligne' pour vérifier vos actions avant de lancer votre live !",
+      "date": "20/10/2024",
+      "type": "info",
+      "icon": "💡"
+    }
+  ]
+}
